@@ -1,0 +1,13 @@
+<html lang="en">
+<head>
+<title>JavaScript Output</title>
+</head>
+<body>
+<h2>Display output inner HTML property
+<p id="id1"></p>
+<script>
+<!--script to use inner HTML-->
+document.getElementById("id1").innerHTML="Hello AI&DS! JavaScript file linked successfully";
+</script>
+</body>
+</html>
